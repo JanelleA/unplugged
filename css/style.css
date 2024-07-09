@@ -149,6 +149,8 @@ aside {
   display: flex;
   justify-content: center;
   align-items: flex-start;
+  flex-flow: row wrap;
+
 }
 
 .reviews {
@@ -179,6 +181,7 @@ aside {
   display: flex;
   justify-content: center;
   align-items: flex-start;
+  flex-flow: row wrap;
 }
 
 
