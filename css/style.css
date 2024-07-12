@@ -168,7 +168,6 @@ header figure {
   width: 60%;
 }
 
-
 header nav {
   width: 60%;
 }
@@ -592,7 +591,6 @@ input[type=button] {
     margin-bottom: 20px;
   }
 
-
   .features article {
     display: flex;
     align-items: center;
@@ -634,6 +632,10 @@ input[type=button] {
 
   .mission-content p {
     width: 45%;
+  }
+
+  .map figure {
+    padding-bottom: 54.6875%;
   }
 
   .contact-section .content-wrapper h2 {
@@ -748,6 +750,10 @@ input[type=button] {
   .contact-section .content-wrapper h2 {
     width: 95%;
     font-size: 3em;
+  }
+
+  .map figure {
+    padding-bottom: 46.875%;
   }
 
   .contact-content h4 {
