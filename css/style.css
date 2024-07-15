@@ -208,6 +208,10 @@ footer .content-wrapper {
   width: 55%;
 }
 
+footer .footer-content {
+  margin-bottom: 50px;
+}
+
 footer .contact {
   margin-bottom: 50px;
 }
@@ -233,7 +237,7 @@ footer .social-icons p i {
 }
 
 footer .copyright {
-  margin: 20px 0;
+  margin: 50px 0 20px 0;
 }
 
 /* HOMEPAGE STYLES */
